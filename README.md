@@ -5,9 +5,9 @@ It uses concepts of signal processing, frequency analysis and statistical method
 
 It is most convenient to run the jupyter notebook directly on google colab, where it can be downloaded as well:
 
-[Analysis Notebook Rule 57](https://colab.research.google.com/drive/17kKZvy1FfHj_iRBIyHCxEfinuZguSkA1?usp=sharing)
+[Analysis Notebook Rule 57](https://colab.research.google.com/drive/17kKZvy1FfHj_iRBIyHCxEfinuZguSkA1?usp=sharing) (google colab)
 
-[Analysis Notebook Rule 30](https://colab.research.google.com/drive/1MWBTjIk3sD5mO_uk2SHkY20UYmiagT53?usp=sharing)
+[Analysis Notebook Rule 30](https://colab.research.google.com/drive/1MWBTjIk3sD5mO_uk2SHkY20UYmiagT53?usp=sharing) (google colab)
 
 
 Please leave a message if you like: thauros-development@outlook.com
