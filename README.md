@@ -1,14 +1,9 @@
 # Wolfram Cellular Automata Rule Analysis Notebook
 
-This is a CA generation and analysis notebook. There is currently Rule 57 (a very deterministic CA) and Rule 30, both with limited result interpretations. The notebook is however mostly generic and rules can easily be exchanged.
+This is a CA generation and analysis notebook.
+The notebook is mostly generic and rules can easily be exchanged.
 It uses concepts of signal processing, frequency analysis and statistical methods and is focussed on visualizations whenever possible.
 
-It is most convenient to run the jupyter notebook directly on google colab, where it can be downloaded as well:
-
-[Analysis Notebook Rule 57](https://colab.research.google.com/drive/17kKZvy1FfHj_iRBIyHCxEfinuZguSkA1?usp=sharing) (google colab)
-
-[Analysis Notebook Rule 30](https://colab.research.google.com/drive/1MWBTjIk3sD5mO_uk2SHkY20UYmiagT53?usp=sharing) (google colab)
-
-
-Please leave a message if you like: thauros-development@outlook.com
+It is most convenient to run the jupyter notebook directly on google colab, where it can be downloaded as well: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY)
 
