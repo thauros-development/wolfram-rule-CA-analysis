@@ -1,4 +1,4 @@
-# Wolfram Cellular Automata Rule Analysis Notebook
+# Wolfram Cellular Automata - Rule Frequency Analysis Notebook
 
 This is a CA generation and analysis notebook.
 The notebook is mostly generic and rules can easily be exchanged.
