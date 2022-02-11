@@ -32,6 +32,9 @@ Run the notebooks directly on google colab:
 *Analysis Notebook - full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
 
 This notebook is slightly less polished and implements in addition:
+- Dummy Signals for referencing
+    - Basic Sinusodial Signals with and without Harmonic Content
+    - Logistic Function for Chaotic (Edge-of-chaos) Content
 - UMAP (t-SNE)
 - Spectogram
 - Oscilloscope
