@@ -1,6 +1,6 @@
 ## Wolfram Cellular Automata Study
 
-A deep analysis and result visualization of a Wolfram Rule Automata.
+A deep analysis and result visualization of a Wolfram Rule Automata, inherently  a few philosophical notions. 
 
 The notebook is written in python, but fully automatized and no programming experience is needed to change rules for analysis.
 All CA Rules are listed in the Wolfram Atlas for Simple Programs: [[Link]](http://atlas.wolfram.com/01/01/) 
