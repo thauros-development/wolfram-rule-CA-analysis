@@ -9,12 +9,10 @@ The notebook is generic and can be used for general time-series.
 
 Run the notebooks directly on google colab: 
 
-Rule 30 proof :   
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
+*Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
 
 
-Analysis Notebook - basic :   
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
+*Analysis Notebook - basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
 - CA generation algorithm
 - Modification for gathering rule frequencies
 - Signal Plots
@@ -32,7 +30,7 @@ Analysis Notebook - basic :
     - Detrended Fluctuation Analysis
 - Phase Diagram / 3d-Poincaré plot
 
-Analysis Notebook - full :   [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
+*Analysis Notebook - full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
 
 This notebook implements in addition to previous methods:
 - UMAP (t-SNE)
