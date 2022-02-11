@@ -31,7 +31,7 @@ Run the notebooks directly on google colab:
 
 *Analysis Notebook - full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
 
-This notebook implements in addition to previous methods:
+This notebook is slightly less polished and implements in addition:
 - UMAP (t-SNE)
 - Spectogram
 - Oscilloscope
