@@ -41,5 +41,5 @@ This notebook is slightly less polished and implements in addition:
 - Coherence
 - Stationarity
 - Granger-Causality
-- SARIMAX
+- SARIMAX Prediction / RMSE
 
