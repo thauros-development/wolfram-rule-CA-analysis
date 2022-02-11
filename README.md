@@ -1,10 +1,44 @@
-# Wolfram Cellular Automata - Rule Frequency Analysis Notebook
+## Wolfram Cellular Automata Study
 
-This is a CA generation and analysis notebook.
-The notebook is mostly generic and rules can easily be exchanged.
-It uses concepts of signal processing, frequency analysis and statistical methods and is focussed on visualizations whenever possible.
+A deep analysis and result visualization of a Wolfram Rule Automata.
 
-It is best to run the jupyter notebook directly on google colab: 
+The notebook is written in python, but fully automatized and no programming experience is needed to change rules for analysis.
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY)
+The notebook is generic and can be used for general time-series.
+
+
+Run the notebooks directly on google colab: 
+
+Rule 30 proof: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
+
+
+Analysis Notebook - basic: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
+- CA generation algorithm
+- Modification for gathering rule frequencies
+- Signal Plots
+- Kernel Plot (Frequency Tail)
+- Statistical Descriptives (Mean, Standard Deviation and Standard Error of Mean)
+- Frequency Analysis (FFT)
+-- Amplitude-Frequency Plot / Powerspectrum
+-- Phase Angles
+-- Phase Spectrum
+-- Chaos analysis
+-- Lyapunov Exponents
+-- Sample Entropy
+-- Hurst Exponent
+-- Correlation Dimension
+-- Detrended Fluctuation Analysis
+- Phase Diagram / 3d-Poincaré plot
+
+Analysis Notebook - full: [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
+In addition to the previous methods, this notebook 
+- UMAP (t-SNE)
+- Spectogram
+- Oscilloscope
+- Coherence
+- Stationarity
+- Granger-Causality
+- SARIMAX
 
