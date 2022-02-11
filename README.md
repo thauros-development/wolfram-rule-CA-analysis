@@ -14,7 +14,6 @@ Run the notebooks directly on google colab:
 
 *Analysis Notebook - basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
 - CA generation algorithm
-- Modification for gathering rule frequencies
 - Signal Plots
 - Kernel Plot (Frequency Tail)
 - Statistical Descriptives (Mean, Standard Deviation and Standard Error of Mean)
