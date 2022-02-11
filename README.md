@@ -3,14 +3,14 @@
 A deep analysis and result visualization of a Wolfram Rule Automata.
 
 The notebook is written in python, but fully automatized and no programming experience is needed to change rules for analysis.
-Rules from Wolfram Atlas for Simple Programs: [Link](http://atlas.wolfram.com/01/01/) 
+All CA Rules are listed in the Wolfram Atlas for Simple Programs: [[Link]](http://atlas.wolfram.com/01/01/) 
 
 The notebook is generic and can be used for general time-series.
 
 #### *Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
 Including Cellular Automata Generation Algorithm and Visualizations
 
-(Rule 30 on Wikipedia [Link](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [Link](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
+(Rule 30 on Wikipedia [[Link]](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [[Link]](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
 
 
 #### *Analysis Notebook - Basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
