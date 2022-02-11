@@ -7,11 +7,13 @@ Rules from Wolfram Atlas for Simple Programs: [Link](http://atlas.wolfram.com/01
 
 The notebook is generic and can be used for general time-series.
 
-*Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing) (Rule 30 on Wikipedia [Link](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [Link](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
+#### *Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
 Including Cellular Automata Generation Algorithm and Visualizations
 
+(Rule 30 on Wikipedia [Link](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [Link](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
 
-*Analysis Notebook - Basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
+
+#### *Analysis Notebook - Basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
 - Cellular Automata Generation Algorithm
 - Signal Plots
 - Kernel Plot (Frequency Tail)
@@ -31,7 +33,7 @@ Including Cellular Automata Generation Algorithm and Visualizations
     - Detrended Fluctuation Analysis
 - Phase Diagram / 3d-Poincaré plot
 
-*Analysis Notebook - Full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
+#### *Analysis Notebook - Full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
 
 This notebook is slightly less polished and implements in addition:
 - Dummy Signals for Referencing
