@@ -50,6 +50,6 @@ This notebook is slightly less polished and implements in addition:
 
 ##### Other potential methods:
 
-More harmonic aspects, like Harmonic Oscillator Eigenfunctions, [measuring harmonic distortion](https://de.mathworks.com/help/signal/ref/thd.html). Or a visualization like [this](http://pondscienceinstitute.on-rev.com/imagesCOS/UNIVER%7E9.JPEG) or [this](https://github.com/nengo/keras-lmu). Signal Envelopes, Peak Detection, Feature extraction (PCA, SVD), Dynamic Time Warping, [Reversable CAs](https://en.wikipedia.org/wiki/Second-order_cellular_automaton), Dimensionality Measures (Haussdorff-Dimensions)
+More harmonic aspects, like Harmonic Oscillator Eigenfunctions, [measuring harmonic distortion](https://de.mathworks.com/help/signal/ref/thd.html). Or a visualization like [this](http://pondscienceinstitute.on-rev.com/imagesCOS/UNIVER%7E9.JPEG) or [this](https://github.com/nengo/keras-lmu). Signal Envelopes, Peak Detection, Feature extraction (PCA, SVD), Dynamic Time Warping, [Reversable CAs](https://en.wikipedia.org/wiki/Second-order_cellular_automaton), Dimensionality Measures (Haussdorff-Dimensions).
 
-I am currently not planning to implement other methods, but if you have a suggestion, let me know!
+
