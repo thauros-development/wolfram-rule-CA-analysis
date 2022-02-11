@@ -10,13 +10,17 @@ The notebook is generic and can be used for general time-series.
 Run the notebooks directly on google colab: 
 
 *Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
+Including Cellular Automata Generation Algorithm and Visualizations
 
 
 *Analysis Notebook - basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
-- CA generation algorithm
+- Cellular Automata Generation Algorithm
 - Signal Plots
 - Kernel Plot (Frequency Tail)
-- Statistical Descriptives (Mean, Standard Deviation and Standard Error of Mean)
+- Statistical Descriptives  
+    - Mean
+    - Standard Deviation 
+    - Standard Error of Mean
 - Frequency Analysis (FFT)
     - Amplitude-Frequency Plot / Powerspectrum
     - Phase Angles
@@ -32,14 +36,14 @@ Run the notebooks directly on google colab:
 *Analysis Notebook - full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
 
 This notebook is slightly less polished and implements in addition:
-- Dummy Signals for referencing
+- Dummy Signals for Referencing
     - Basic Sinusodial Signals with and without Harmonic Content
     - Logistic Function for Chaotic (Edge-of-chaos) Content
-- UMAP (t-SNE)
+- UMAP (t-SNE) Multidimensional Scaling
 - Spectogram
-- Oscilloscope
-- Coherence
-- Stationarity
-- Granger-Causality
+- Animated Oscilloscope
+- Coherence between two Signals
+- Signal Stationarity
+- Granger-Causality Prediction
 - SARIMAX Prediction / RMSE
 
