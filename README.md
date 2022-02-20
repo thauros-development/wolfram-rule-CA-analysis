@@ -7,11 +7,6 @@ All CA Rules are listed in the Wolfram Atlas for Simple Programs: [[Link]](http:
 
 The notebook is generic and can be used for general time-series.
 
-#### *Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
-Including Cellular Automata Generation Algorithm and Visualizations
-
-(Rule 30 on Wikipedia [[Link]](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [[Link]](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
-
 
 #### *CA Analysis Notebook - Basic* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GaF1YIa77VqiOfO88-CES006TCTgvFlY?usp=sharing)
 - Cellular Automata Generation Algorithm
@@ -25,13 +20,13 @@ Including Cellular Automata Generation Algorithm and Visualizations
     - Amplitude-Frequency Plot / Powerspectrum
     - Phase Angles
     - Phase Spectrum
-    - Chaos analysis
+- Chaos analysis
     - Lyapunov Exponents
     - Sample Entropy
     - Hurst Exponent
     - Correlation Dimension
     - Detrended Fluctuation Analysis
-- Phase Diagram / 3d-Poincaré plot
+    - Phase Diagram / 3d-Poincaré plot
 
 #### *CA Analysis Notebook - Full* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pey1ydgsQkw_gQs4WWRRh1eo_Z4oXmK9?usp=sharing)
 
@@ -53,3 +48,7 @@ This notebook is slightly less polished and implements in addition:
 More harmonic aspects, like Harmonic Oscillator Eigenfunctions, [measuring harmonic distortion](https://de.mathworks.com/help/signal/ref/thd.html). Or a visualization like [this](http://pondscienceinstitute.on-rev.com/imagesCOS/UNIVER%7E9.JPEG) or [this](https://github.com/nengo/keras-lmu). Signal Envelopes, Peak Detection, Feature extraction (PCA, SVD), Dynamic Time Warping, [Reversable CAs](https://en.wikipedia.org/wiki/Second-order_cellular_automaton), Dimensionality Measures (Haussdorff-Dimensions).
 
 
+#### *Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
+Including Cellular Automata Generation Algorithm and Visualizations
+
+(Rule 30 on Wikipedia [[Link]](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [[Link]](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
