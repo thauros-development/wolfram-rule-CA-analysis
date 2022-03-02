@@ -45,10 +45,10 @@ This notebook is slightly less polished and implements in addition:
 
 ##### Other potential methods:
 
-More harmonic aspects, like Harmonic Oscillator Eigenfunctions, [measuring harmonic distortion](https://de.mathworks.com/help/signal/ref/thd.html). Or a visualization like [this](http://pondscienceinstitute.on-rev.com/imagesCOS/UNIVER%7E9.JPEG) or [this](https://github.com/nengo/keras-lmu). Signal Envelopes, Peak Detection, Feature extraction (PCA, SVD), Dynamic Time Warping, [Reversable CAs](https://en.wikipedia.org/wiki/Second-order_cellular_automaton), Dimensionality Measures (Haussdorff-Dimensions).
+More harmonic aspects, like Harmonic Oscillator Eigenfunctions, [measuring harmonic distortion](https://de.mathworks.com/help/signal/ref/thd.html). Or a visualization like [this](http://pondscienceinstitute.on-rev.com/imagesCOS/UNIVER%7E9.JPEG) or [this](https://github.com/nengo/keras-lmu). Signal Envelopes, Peak Detection, Feature extraction (PCA, SVD), Dynamic Time Warping, [Reversable CAs](https://en.wikipedia.org/wiki/Second-order_cellular_automaton), Dimensionality Measures (Haussdorff-Dimensions). Neural Network (f.i. [snap package](https://github.com/rokcestnik/oscillator_snap))
 
 
-#### *Rule 30 proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
+#### *Rule 30 intuitive proof* : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Brg_Uw2Xk_UO5bEjggE98jmulHgaDSsl?usp=sharing)
 Including Cellular Automata Generation Algorithm and Visualizations
 
 (Rule 30 on Wikipedia [[Link]](https://en.wikipedia.org/wiki/Rule_30), Rule 30 Prize Problems [[Link]](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/))
